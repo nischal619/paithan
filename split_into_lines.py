@@ -1,0 +1,1 @@
+print(input('Enter text : ').split('\\n'))
